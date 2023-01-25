@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@shabnomnom 
-shabnomnom
-/
-coding_challenges
-Private
-Fork your own copy of shabnomnom/coding_challenges
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-coding_challenges/medium/wordle/wordle.js /
-@shabnomnom
-shabnomnom friends recursive
-Latest commit 5e9e147 on Oct 14, 2022
- History
- 1 contributor
-151 lines (133 sloc)  4.21 KB
-
-
 // create AJAX request to get all the words from API call 
 
 function createDict() {
@@ -179,18 +148,3 @@ function generateBoardHTML(board,gameBoardHTML){
 }
 
  
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-coding_challenges/wordle.js at master · shabnomnom/coding_challenges
