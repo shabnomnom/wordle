@@ -19,16 +19,6 @@
   <table id="gameBoard">
   </table>
 
-
-
-
-
-
-
-
-
-
-
   <script src="./wordle.js"></script>
 </body>
 
